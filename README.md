@@ -6,7 +6,7 @@
 ![codiga score](https://api.codiga.io/project/33413/score/svg)
 
 
-[![Code Quality - Cppcheck](https://github.com/yandrapusomasekhar/M3_car-wiper-system/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/yandrapusomasekhar/M3_car-wiper-system/actions/workflows/Cppcheck.yml)
+[![Code Quality - Cppcheck](https://github.com/sachinr24/M3_WiperControlSystem/actions/workflows/CPPcheck.yml/badge.svg)](https://github.com/sachinr24/M3_WiperControlSystem/actions/workflows/CPPcheck.yml)
 
 
 [![Bulid CI - windows](https://github.com/sachinr24/M3_WiperControlSystem/actions/workflows/windows.yml/badge.svg)](https://github.com/sachinr24/M3_WiperControlSystem/actions/workflows/windows.yml)
