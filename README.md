@@ -9,7 +9,7 @@
 [![Code Quality - Cppcheck](https://github.com/yandrapusomasekhar/M3_car-wiper-system/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/yandrapusomasekhar/M3_car-wiper-system/actions/workflows/Cppcheck.yml)
 
 
-[![Bulid CI - windows](https://github.com/yandrapusomasekhar/M3_car-wiper-system/actions/workflows/windows.yml/badge.svg)](https://github.com/yandrapusomasekhar/M3_car-wiper-system/actions/workflows/windows.yml)
+[![Bulid CI - windows](https://github.com/sachinr24/M3_WiperControlSystem/actions/workflows/windows.yml/badge.svg)](https://github.com/sachinr24/M3_WiperControlSystem/actions/workflows/windows.yml)
 
 
 [![Build_CI - Linux](https://github.com/sachinr24/M3_WiperControlSystem/actions/workflows/linux.yml/badge.svg)](https://github.com/sachinr24/M3_WiperControlSystem/actions/workflows/linux.yml)
