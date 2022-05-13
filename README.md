@@ -14,7 +14,6 @@
 
 [![Bulid CI - windows](https://github.com/yandrapusomasekhar/M3_car-wiper-system/actions/workflows/windows.yml/badge.svg)](https://github.com/yandrapusomasekhar/M3_car-wiper-system/actions/workflows/windows.yml)
 
-
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c38f2d45c4474aea98a12f115b3b0532)](https://www.codacy.com/gh/sachinr24/M3_WiperControlSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sachinr24/M3_WiperControlSystem&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure
