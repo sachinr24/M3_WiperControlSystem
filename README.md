@@ -1,9 +1,9 @@
 # M3_WiperControlSystem
 
 
-![codiga grade](https://api.codiga.io/project/33347/status/svg)
+![codiga grade](https://api.codiga.io/project/33413/status/svg)
 
-![codiga score](https://api.codiga.io/project/33347/score/svg)
+![codiga score](https://api.codiga.io/project/33413/score/svg)
 
 
 [![Code Quality - Cppcheck](https://github.com/yandrapusomasekhar/M3_car-wiper-system/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/yandrapusomasekhar/M3_car-wiper-system/actions/workflows/Cppcheck.yml)
